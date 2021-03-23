@@ -1290,4 +1290,12 @@ input[type=text] {
   opacity: 0;
 }
 
+#success {
+  display: none;
+}
+
+#success:target {
+  display: block;
+}
+
 /*# sourceMappingURL=style.css.map */
